@@ -1,0 +1,8 @@
+*{
+ background-color: blue;
+ max-width: 95%;
+ margin: auto;
+}
+.make{
+  display: flex;
+}

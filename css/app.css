@@ -2,10 +2,6 @@
  background-color: blue;
  max-width: 95%;
  margin: auto;
- box-sizing: border-box;
- -webkit-box-sizing: border-box;
- -moz-box-sizing: border-box;
- -ms-box-sizing: border-box;
 }
 .make{
   display: flex;
